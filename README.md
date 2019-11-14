@@ -1,7 +1,7 @@
 # Ping-pong_game  ⌨️
 
 
-## #Juego de ping pong utilizando el framework **Phaser**. Para jugar usa las teclas S y W para mover la pala izquierda y flecha arriba y abajo para mover la pala derecha.
+### Juego de ping pong utilizando el framework **Phaser**. Para jugar usa las teclas S y W para mover la pala izquierda y flecha arriba y abajo para mover la pala derecha.
 
 (https://raw.githubusercontent.com/eva-lm/Ping-pong_game/master/assets/muestra.png)
 
